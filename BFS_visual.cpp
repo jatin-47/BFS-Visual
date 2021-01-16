@@ -14,7 +14,7 @@
 #include<graphics.h>
 #include <stdlib.h>
 #include <stdio.h>
-#include <string.h>
+
 
 // a point in a 2D grid with x and y coordinates
 typedef struct
