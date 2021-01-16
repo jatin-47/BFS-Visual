@@ -1,0 +1,21 @@
+# How To:
+1. Open Grids.txt and follow the below template.
+2  0 = blocked, 1 = unblocked, 8 = source , 9 = target  
+...................................................................
+<rows> <cols> <sideLength>
+<grid1>
+
+<grid2>
+
+<grid3>
+.
+.
+.
+.
+...................................................................
+
+# Extra Features:
+
+1. If you want that each level of the graph should have different color then uncomment the code at line 234.
+2. If you want to adjust the size of the screen then check initwindow() function at line 328.
+
