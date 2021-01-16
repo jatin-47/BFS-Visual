@@ -20,7 +20,7 @@ So, this library is not cross-platform!
 
 
 ## Instructions:
-1. Open Grids.txt and follow the below template.
+1. Open ```Grids.txt``` and follow the below template.
 2.  0 = blocked, 1 = unblocked, 8 = source , 9 = target 
 
 ```
