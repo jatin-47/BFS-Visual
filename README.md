@@ -4,12 +4,15 @@ Graphic animation of Breadth First Search in action using WinBGIm (Windows BGI -
 <br>
 
 ## Compatibilty and some information:
-The folder named [WinBGIm_Library6_0_Nov2005](https://github.com/jatin-47/BFS-Visual/tree/main/WinBGIm_Library6_0_Nov2005) contains the library files. "libbgi.a" is the library file and "graphics.h" is the header file which contains all the declarations and other stuff available with the library. <br>
-***This library is very old (2005) but still useful when your task in hand is just to draw some easy graphics.*** ***BGI is less powerful than modern graphics libraries such as SDL or OpenGL, since it was designed for presentation graphics instead of event-based 3D applications. However, it has been considered simpler to code.***
+BGI, is a graphics library for the DOS operating systems. WinBGIm (Windows BGI - with mouse) is a port of BGI for Microsoft Windows; it also provides several extensions.
+It is a not  a standard library of C so, this library is not cross-platform!
 <br>
 
-BGI, is a graphics library for the DOS operating systems. WinBGIm (Windows BGI - with mouse) is a port of BGI for Microsoft Windows; it also provides several extensions.
-So, this library is not cross-platform!
+The folder named [WinBGIm_Library6_0_Nov2005](https://github.com/jatin-47/BFS-Visual/tree/main/WinBGIm_Library6_0_Nov2005) contains the library files. "libbgi.a" is the library file and "graphics.h" is the header file which contains all the declarations and other stuff available with the library. <br>
+***This library is very old (2005) but still useful when your task in hand is just to draw some easy graphics.*** ***BGI is less powerful than modern graphics libraries such as SDL or OpenGL, since it was designed for presentation graphics instead of event-based 3D applications. However, it has been considered simpler to code.***
+
+
+
 
 
 
