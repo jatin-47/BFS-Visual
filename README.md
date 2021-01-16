@@ -46,5 +46,3 @@ For example:
 <br>
 
 ![SS3](https://github.com/jatin-47/BFS-Visual/blob/main/ss3.png)
-
-![Instructions](https://github.com/jatin-47/BFS-Visual/blob/main/Instructions.txt)
