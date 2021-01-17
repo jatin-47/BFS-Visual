@@ -57,10 +57,10 @@ For example:
 
 ## Screenshots:
 
-<img src="https://github.com/jatin-47/BFS-Visual/blob/main/ScreenShots/ss1.png" alt="SS1" width="150">
+<img src="https://github.com/jatin-47/BFS-Visual/blob/main/ScreenShots/ss1.png" alt="SS1" width="800">
 <br>
 
-![SS2](https://github.com/jatin-47/BFS-Visual/blob/main/ScreenShots/ss2.png)
+<img src="https://github.com/jatin-47/BFS-Visual/blob/main/ScreenShots/ss2.png" alt="SS2" width="800">
 <br>
 
-![SS3](https://github.com/jatin-47/BFS-Visual/blob/main/ScreenShots/ss3.png)
+<img src="https://github.com/jatin-47/BFS-Visual/blob/main/ScreenShots/ss3.png" alt="SS3" width="800">
