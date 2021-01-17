@@ -3,7 +3,7 @@
 
 Graphic animation for showing Breadth First Search (BFS) algorithm for finding shortest path from a single source to a single target in action using WinBGIm library in C language for Microsoft Windows users.
 
-<a href="https://github.com/jatin-47/BFS-Visual/archive/main.zip"> <img src="" alt="Download NOW!"> </a>
+<a href="https://github.com/jatin-47/BFS-Visual/archive/main.zip"> <img src="https://github.com/jatin-47/BFS-Visual/blob/main/ScreenShots/Download.jpg" alt="Download NOW!" width="200"> </a>
 
 
 ### Features: :sparkles:
