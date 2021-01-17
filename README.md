@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
 # Breadth First Search-Visual :tv:
 Graphic animation for showing Breadth First Search (BFS) algorithm for finding shortest path from a single source to a single target in action using WinBGIm library in C language for Microsoft Windows users.
 
@@ -58,7 +57,7 @@ For example:
 
 ## Screenshots:
 
-![SS1](https://github.com/jatin-47/BFS-Visual/blob/main/ScreenShots/ss1.png)
+![SS1](https://github.com/jatin-47/BFS-Visual/blob/main/ScreenShots/ss1.png =50x50)
 <br>
 
 ![SS2](https://github.com/jatin-47/BFS-Visual/blob/main/ScreenShots/ss2.png)
