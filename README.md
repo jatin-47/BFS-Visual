@@ -23,7 +23,7 @@ The folder named [WinBGIm_Library6_0_Nov2005](https://github.com/jatin-47/BFS-Vi
 1. Only ```BFS_visual.exe``` and ```Grids.txt``` are of use to run the program and these must be in same folder.
 2. Open ```Grids.txt``` and follow the below template.
 3.  0 = blocked, 1 = unblocked, 8 = source , 9 = target 
-4. After one grid animation is completer press ```Enter``` to start the next animation.
+4. After one grid animation is completed press ```Enter``` to start the next animation.
 
 ```
 <rows> <cols> <sideLength> 
