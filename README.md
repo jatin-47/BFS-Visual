@@ -56,8 +56,7 @@ For example:
 <br>
 
 ## Screenshots:
-
-![SS1](https://github.com/jatin-47/BFS-Visual/blob/main/ScreenShots/ss1.png | width=100)
+<img src="https://github.com/jatin-47/BFS-Visual/blob/main/ScreenShots/ss1.png" alt="SS1" width="48">
 <br>
 
 ![SS2](https://github.com/jatin-47/BFS-Visual/blob/main/ScreenShots/ss2.png)
