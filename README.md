@@ -3,7 +3,8 @@ Graphic animation for showing Breadth First Search (BFS) algorithm for finding s
 
 ## Features:
 ``BFS_visual.exe`` is the game. We provide input in ```Grids.txt``` following the [instructions](https://github.com/jatin-47/BFS-Visual/blob/main/README.md/#instruc) given below. Now, when we run ``BFS_visual.exe``, we see an animation of how exactly the BFS algorithm works and finds the shortest path.<br>
-For those, who don't know what this is, you can read [this](https://www.freecodecamp.org/news/exploring-the-applications-and-limits-of-breadth-first-search-to-the-shortest-paths-in-a-weighted-1e7b28b3307/) article or if you are lazy, watch [this](https://www.youtube.com/watch?v=oDqjPvD54Ss) video.
+
+For those who don't know what this is, you can read [this](https://www.freecodecamp.org/news/exploring-the-applications-and-limits-of-breadth-first-search-to-the-shortest-paths-in-a-weighted-1e7b28b3307/) article or if you are lazy, watch [this](https://www.youtube.com/watch?v=oDqjPvD54Ss) video.
 
 ## Compatibilty:
 The ``BFS_visual.exe`` is the executable file and can be run in **Microsoft Windows only**. <br>
