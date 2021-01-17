@@ -11,6 +11,7 @@ If you are a Linux (Ubuntu) user, compile the ``BFS_visual.cpp`` source file in 
 For more info check the [SourceCode](https://github.com/jatin-47/BFS-Visual/tree/SourceCode) branch of this repository.
 
 <div id="instruc"/>
+
 ## Instructions:
 1. Only ```BFS_visual.exe``` and ```Grids.txt``` are of use to run the program and these must be in same folder.
 2. Open ```Grids.txt``` and follow the below template.
