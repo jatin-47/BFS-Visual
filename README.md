@@ -57,7 +57,7 @@ For example:
 
 ## Screenshots:
 
-![SS1](https://github.com/jatin-47/BFS-Visual/blob/main/ScreenShots/ss1.png =50x50)
+![SS1](https://github.com/jatin-47/BFS-Visual/blob/main/ScreenShots/ss1.png | width=100)
 <br>
 
 ![SS2](https://github.com/jatin-47/BFS-Visual/blob/main/ScreenShots/ss2.png)
