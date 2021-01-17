@@ -1,5 +1,5 @@
 # Breadth First Search-Visual
-Graphic animation of Breadth First Search in action using WinBGIm (Windows BGI - with mouse) library in C language for Microsoft Windows users.
+Graphic animation for showing Breadth First Search (BFS) algorithm for finding shortest path from a single source to a single target in action using WinBGIm library in C language for Microsoft Windows users.
 
 ## Compatibilty and some information:
 The ``BFS_visual.exe`` is the executable file and can be run in Microsoft Windows only. <br>
