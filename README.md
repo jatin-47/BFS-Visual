@@ -56,10 +56,10 @@ For example:
 
 ## Screenshots:
 
-![SS1](https://github.com/jatin-47/BFS-Visual/blob/main/ss1.png)
+![SS1](https://github.com/jatin-47/BFS-Visual/blob/main/ScreenShots/ss1.png)
 <br>
 
-![SS2](https://github.com/jatin-47/BFS-Visual/blob/main/ss2.png)
+![SS2](https://github.com/jatin-47/BFS-Visual/blob/main/ScreenShots/ss2.png)
 <br>
 
-![SS3](https://github.com/jatin-47/BFS-Visual/blob/main/ss3.png)
+![SS3](https://github.com/jatin-47/BFS-Visual/blob/main/ScreenShots/ss3.png)
