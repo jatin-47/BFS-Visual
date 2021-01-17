@@ -6,7 +6,7 @@ Graphic animation for showing Breadth First Search (BFS) algorithm for finding s
 For those, who don't know what this is, you can read [this](https://www.freecodecamp.org/news/exploring-the-applications-and-limits-of-breadth-first-search-to-the-shortest-paths-in-a-weighted-1e7b28b3307/) article or if you are lazy, watch [this](https://www.youtube.com/watch?v=oDqjPvD54Ss) video.
 
 ## Compatibilty:
-The ``BFS_visual.exe`` is the executable file and can be run in Microsoft Windows only. <br>
+The ``BFS_visual.exe`` is the executable file and can be run in **Microsoft Windows only**. <br>
 If you are a Linux (Ubuntu) user, compile the ``BFS_visual.cpp`` source file in your system (after downloading the necesassary library files). <br> <br>
 For more info check the [SourceCode](https://github.com/jatin-47/BFS-Visual/tree/SourceCode) branch of this repository.
 
