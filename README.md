@@ -1,5 +1,10 @@
-# Breadth First Search-Visual :tv:
+# Breadth First Search-Visual :tv: 
+<img src="https://github.com/jatin-47/BFS-Visual/blob/main/ScreenShots/title.png" align="right" style="display:inline;" >
+
 Graphic animation for showing Breadth First Search (BFS) algorithm for finding shortest path from a single source to a single target in action using WinBGIm library in C language for Microsoft Windows users.
+
+<a href="https://github.com/jatin-47/BFS-Visual/archive/main.zip"> <img src="" alt="Download NOW!"> </a>
+
 
 ### Features: :sparkles:
 ``BFS_visual.exe`` is the game. User provide input in ```Grids.txt``` following the [instructions](https://github.com/jatin-47/BFS-Visual/blob/main/README.md/#instruc) given below. Now, when we run ``BFS_visual.exe``, we see an animation of how exactly the BFS algorithm works and finds the shortest path.<br>
