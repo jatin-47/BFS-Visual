@@ -1,8 +1,6 @@
 # Breadth First Search-Visual
 Graphic animation of Breadth First Search in action using WinBGIm (Windows BGI - with mouse) library in C language for Microsoft Windows users.
 
-<br>
-
 ## Compatibilty and some information:
 The ``BFS_visual.exe`` is the executable file and can be run in Microsoft Windows only. <br>
 If you are a Linux (Ubuntu) user, compile the ``BFS_visual.cpp`` source file in your system (after downloading the necesassary library files). <br> <br>
