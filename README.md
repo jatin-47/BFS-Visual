@@ -1,11 +1,13 @@
 # Breadth First Search-Visual
-Graphic animation of Breadth First Search in action using WinBGIm (Windows BGI - with mouse) library in C language for Microsoft Windows users. <br>
-If you are a Linux (Ubuntu) user, compile the ``BFS_visual.cpp`` source file in your system (after downloading the necesassary library files).
+Graphic animation of Breadth First Search in action using WinBGIm (Windows BGI - with mouse) library in C language for Microsoft Windows users.
 
 <br>
 
 ## Compatibilty and some information:
-The ``BFS_visual.exe`` is the 
+The ``BFS_visual.exe`` is the executable file and can be run in Microsoft Windows only. <br>
+If you are a Linux (Ubuntu) user, compile the ``BFS_visual.cpp`` source file in your system (after downloading the necesassary library files). <br> <br>
+
+
 BGI, is a graphics library for the DOS operating systems. WinBGIm (Windows BGI - with mouse) is a port of BGI for Microsoft Windows; it also provides several extensions.
 It is a not  a standard library of C so, this library is not cross-platform!
 <br>
@@ -18,8 +20,9 @@ The folder named [WinBGIm_Library6_0_Nov2005](https://github.com/jatin-47/BFS-Vi
 
 
 ## Instructions:
-1. Open ```Grids.txt``` and follow the below template.
-2.  0 = blocked, 1 = unblocked, 8 = source , 9 = target 
+1. Only ```BFS_visual.exe``` and ```Grids.txt``` are of use to run the program and these must be in same folder.
+2. Open ```Grids.txt``` and follow the below template.
+3.  0 = blocked, 1 = unblocked, 8 = source , 9 = target 
 
 ```
 <rows> <cols> <sideLength> 
