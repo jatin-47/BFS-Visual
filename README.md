@@ -3,7 +3,7 @@ This branch contains the ***library used (WinBGIm)*** and the **source code** wr
 WinBGIm is not a standard C library and is written for ***Microsft Windows Operating System ONLY***.
 <br><br>
 
-Ports of BGI for other Operating Systems are availableas as well. So, if your OS is not Windows and you want to run the BFS-visual program then you will have to find the port of BGI for your OS (from internet) and compile the source file and you are done.
+Ports of BGI for other Operating Systems are available as well. So, if your OS is not Windows and you want to run the BFS-visual program then you will have to find the port of BGI for your OS (from internet) and compile the source file and you are done.
 <br><br>
 
 BGI, is a graphics library for the DOS operating systems. WinBGIm (Windows BGI - with mouse) is a port of BGI for Microsoft Windows; it also provides several extensions.
