@@ -3,12 +3,7 @@
 **  implemented using a grid.                                        **
 **  For graphics, WinBGIm is used which is NOT cross-platform        **
 ***********************************************************************
-/*  Name: Jatin Saini                                                **
-*                                                                    **
-/*  Roll No.: 19ME30068                                              **
-*                                                                    **
-/*  Course: Artificial Intelligence (MA60038)                        **
-/*  Professor: Bodhyan Roy                                           **
+/*  Name: Jatin Saini                                                **                                                                    **
 /**********************************************************************/
 
 #include<graphics.h>
